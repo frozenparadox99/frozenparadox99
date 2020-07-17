@@ -1,16 +1,41 @@
 ### Hi there 👋
 
-<!--
-**frozenparadox99/frozenparadox99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>I'm Sushant Lenka! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Currently a 4th year at Manipal Institute of Technology<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const sushant = {
+    code: ["C++", "Javascript", "Typescript", "Python", "C#", "php", "swift"],
+    askMeAbout: ["web dev", "tech", "app dev", "game dev"],
+    technologies: {
+        mobileApp: ["iOS","react native", "flutter"],
+        frontEnd: {
+            js: ["React", "Next", "Vue", "Nuxt"],
+            css: ["materialize", "bootstrap"]
+        },
+        backEnd: {
+            js: ["node", "express"],
+            python: ["flask", "django"]
+        },
+        ML-AI: ["pyTorch", "Tensorflow"],
+        devOps: ["AWS", "Docker🐳"],
+        databases: ["mongoDB", "MySql", "sqlite"],
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php"]
+    },
+    architecture: [
+      "Serverless Architecture", 
+      "Progressive web applications", 
+      "Single page applications"
+      ]
+};
+```
+
+### 📫 How to reach me:
+ - LinkedIn: https://www.linkedin.com/in/sushant-lenka-23756b170/
+ - Email: sushantecemit@gmail.com
+
