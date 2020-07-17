@@ -25,13 +25,8 @@ const sushant = {
         ML-AI: ["pyTorch", "Tensorflow"],
         devOps: ["AWS", "Docker🐳"],
         databases: ["mongoDB", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php"]
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "unity"]
     },
-    architecture: [
-      "Serverless Architecture", 
-      "Progressive web applications", 
-      "Single page applications"
-      ]
 };
 ```
 
