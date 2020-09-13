@@ -30,6 +30,5 @@ const sushant = {
 };
 ```
 
-### 📫 How to reach me:
- - Email: sushantecemit@gmail.com
+
 
