@@ -31,6 +31,5 @@ const sushant = {
 ```
 
 ### 📫 How to reach me:
- - LinkedIn: https://www.linkedin.com/in/sushant-lenka-23756b170/
  - Email: sushantecemit@gmail.com
 
