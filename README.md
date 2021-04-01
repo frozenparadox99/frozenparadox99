@@ -10,17 +10,19 @@
 
 ```javascript
 const sushant = {
-    code: ["C++", "Javascript", "Typescript", "Python", "C#", "php", "swift"],
-    askMeAbout: ["web dev", "tech", "app dev", "game dev"],
+    code: ["C++", "Javascript", "Typescript", "Python", "C#", "php", "swift","Java"],
+    askMeAbout: ["web dev", "tech", "app dev", "game dev", "blockchain"],
     technologies: {
         mobileApp: ["iOS","react native", "flutter"],
         frontEnd: {
             js: ["React", "Next", "Vue", "Nuxt"],
-            css: ["materialize", "bootstrap"]
+            css: ["materialize", "bootstrap"],
+            java: ["jsp", "servlets"]
         },
         backEnd: {
             js: ["node", "express"],
-            python: ["flask", "django"]
+            python: ["flask", "django"],
+            java: ["spring", "struts-2"]
         },
         ML-AI: ["pyTorch", "Tensorflow"],
         devOps: ["AWS", "Docker🐳"],
